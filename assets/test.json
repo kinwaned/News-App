@@ -1,0 +1,120 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Matt Egan",
+      "title": "Goldman Sachs tells employees to stay home due to Covid - CNN",
+      "description": "Goldman Sachs is joining a growing list of Wall Street firms advising employees to stay home due to soaring Covid cases.",
+      "url": "https://www.cnn.com/2022/01/02/business/goldman-sachs-stay-home-covid/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211006090234-goldman-sachs-ny-file-super-tease.jpg",
+      "publishedAt": "2022-01-02T17:16:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alexandra Semenova",
+      "title": "December jobs report, Federal Reserve meeting minutes, CES: What to know this week - Yahoo Finance",
+      "description": "Investors can expect a busy first week of 2022, laden with key economic releases out of Washington that include the highly-anticipated December jobs report...",
+      "url": "https://finance.yahoo.com/news/december-jobs-report-fomc-meeting-minutes-what-to-know-this-week-171353443.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ja0.S1XfzpN.jadvVXDbAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/85a49b60-b66d-11eb-bfaf-3a1f15b6ccef",
+      "publishedAt": "2022-01-02T17:13:53Z",
+      "content": "Investors can expect a busy first week of 2022, laden with key economic releases out of Washington that include the highly-anticipated December jobs report and minutes from the Federal Open Market Co… [+8153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Neal E. Boudette",
+      "title": "Tesla Reports 87% Increase in 2021 Deliveries - The New York Times",
+      "description": "The electric-car maker managed substantial growth as Europe and China increasingly propelled sales.",
+      "url": "https://www.nytimes.com/2022/01/02/business/tesla-sales.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/12/31/business/00tesla-sales/00tesla-sales-facebookJumbo.jpg",
+      "publishedAt": "2022-01-02T16:25:03Z",
+      "content": "In October, Teslas market value for the first time exceeded $1 trillion, making it more valuable than General Motors, Ford Motor, Toyota, Volkswagen, Stellantis, BMW and several other automakers comb… [+982 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Max Yakubowski",
+      "title": "What’s ahead for crypto and blockchain in 2022? Experts Answer, Part 2 - Cointelegraph",
+      "description": "Here’s what industry insiders foresee in the development of the blockchain and crypto space in 2022.",
+      "url": "https://cointelegraph.com/explained/whats-ahead-for-crypto-and-blockchain-in-2022-experts-answer-part-2",
+      "urlToImage": "https://images.cointelegraph.com/images/1024_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNjQ0ZDAyMmIwODI3MzZhMGQ2ZjYyMzQwZjAyYjc4YS5qcGc=.jpg",
+      "publishedAt": "2022-01-02T16:04:12Z",
+      "content": "Alan is the chief legal officer at PrimeBlock, a sustainable Bitcoin mining operation, infrastructure solutions provider and member of the Bitcoin Mining Council, with locations spread across North A… [+1578 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ryan Dezember",
+      "title": "Can Paper Replace Plastic? A Packaging Giant Is Betting It Can - The Wall Street Journal",
+      "description": "Environmental-driven shift is complicated by cost of cardboard and carbon-footprint calculus",
+      "url": "https://www.wsj.com/articles/can-paper-paperboard-cardboard-replace-plastic-packaging-11641134377",
+      "urlToImage": "https://images.wsj.net/im-459302/social",
+      "publishedAt": "2022-01-02T15:57:00Z",
+      "content": "KALAMAZOO, Mich.When a new building-size machine cranks up this month, it will begin turning mountains of recycled cardboard into paperboard suitable for greener forms of packaging.\r\nThe $600-million… [+224 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "The Daily Hodl"
+      },
+      "author": "Daily Hodl Staff",
+      "title": "Over $467,000,000 Worth of Bitcoin Leaves Crypto Exchange Coinbase in Just One Week: Analytics Firm Coinglass - The Daily Hodl",
+      "description": "New data from a crypto intelligence platform reveals that nearly 10,000 Bitcoin (BTC) left US-based crypto exchange Coinbase in the last seven days.",
+      "url": "https://dailyhodl.com/2022/01/02/over-467000000-worth-of-bitcoin-leaves-crypto-exchange-coinbase-in-just-one-week-analytics-firm-coinglass/",
+      "urlToImage": "https://dailyhodl.com/wp-content/uploads/2021/10/crypto-college.jpg",
+      "publishedAt": "2022-01-02T15:39:21Z",
+      "content": "New data from a crypto intelligence platform reveals that nearly 10,000 Bitcoin (BTC) left US-based crypto exchange Coinbase in the last seven days.\r\nCoinglass shows that Coinbase Pro users collectiv… [+2136 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rishi Iyengar and Sara Ashley O'Brien, CNN Business",
+      "title": "Jury in Elizabeth Holmes trial will resume deliberations Monday - CNN",
+      "description": "The high-profile criminal trial of Theranos founder Elizabeth Holmes will officially stretch into a new calendar year Monday when the jury entrusted with determining her fate will continue deliberations after a short respite.",
+      "url": "https://www.cnn.com/2021/12/30/tech/elizabeth-holmes-jury-deliberations-second-week/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211223155803-01-elizabeth-holmes-theranos-fraud-trial-1223-restricted-super-tease.jpg",
+      "publishedAt": "2022-01-02T14:44:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": null,
+      "title": "Top 10 Growth Investing Stocks For 2022 - Seeking Alpha",
+      "description": "Our preference towards growth investing is to consider a balanced approach. Read this article to check out our favorite growth stock picks for 2022.",
+      "url": "https://seekingalpha.com/article/4477586-top-10-growth-investing-stocks-2022",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1270665458/medium_image_1270665458.jpg",
+      "publishedAt": "2022-01-02T13:27:00Z",
+      "content": null
+    }
+    ]
+}
+
